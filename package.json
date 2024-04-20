@@ -1,7 +1,7 @@
 {
-  "name": "domain-info-fetcher",
-  "version": "1.2.0",
-  "description": "A package to fetch information about a domain including SSL/TLS certificate, server informations, DNS records and HTTP status codes",
+  "name": "domain-fetch",
+  "version": "1.0.0",
+  "description": "domain fetch for praxive",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
